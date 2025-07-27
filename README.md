@@ -1,5 +1,5 @@
 # 🏦 Loan Approval Prediction using Decision Trees
-
+![SS](SS.png)
 A complete **Machine Learning pipeline** project that predicts **loan approval status** based on applicant details using a **Decision Tree Classifier** with hyperparameter tuning, evaluation, and deployment via **Streamlit**.
 
 ---
